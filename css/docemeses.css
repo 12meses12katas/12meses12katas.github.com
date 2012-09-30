@@ -227,10 +227,15 @@ height: 119px;
 background-image: url("../img/twitter.png");
 }
 
+#solveet , #solveet a{
+width: 286px;
+height: 80px;
+background-image: url("../img/solveet.png");
+}
 
 #fuentes 
 {
-	width: 570px;	
+	width: 900px;	
         margin: auto;
 }
 
