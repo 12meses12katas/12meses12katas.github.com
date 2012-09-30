@@ -105,41 +105,41 @@ p.descripcion
 /* Estilando la lista de katas */
 
 
-#enero        {background-image: url("img/enero_little.png");}
-#enero.current{	background-image: url("img/enero.png");}
+#enero        {background-image: url("../img/enero_little.png");}
+#enero.current{	background-image: url("../img/enero.png");}
 
-#febrero        {background-image: url("img/febrero_little.png");}
-#febrero.current{	background-image: url("img/febrero.png");}
+#febrero        {background-image: url("../img/febrero_little.png");}
+#febrero.current{	background-image: url("../img/febrero.png");}
 
-#marzo        {background-image: url("img/marzo_little.png");}
-#marzo.current{	background-image: url("img/marzo.png");}
+#marzo        {background-image: url("../img/marzo_little.png");}
+#marzo.current{	background-image: url("../img/marzo.png");}
 
-#abril        {background-image: url("img/abril_little.png");}
-#abril.current{	background-image: url("img/abril.png");}
+#abril        {background-image: url("../img/abril_little.png");}
+#abril.current{	background-image: url("../img/abril.png");}
 
-#mayo        {background-image: url("img/mayo_little.png");}
-#mayo.current{	background-image: url("img/mayo.png");}
+#mayo        {background-image: url("../img/mayo_little.png");}
+#mayo.current{	background-image: url("../img/mayo.png");}
 
-#junio        {background-image: url("img/junio_little.png");}
-#junio.current{	background-image: url("img/junio.png");}
+#junio        {background-image: url("../img/junio_little.png");}
+#junio.current{	background-image: url("../img/junio.png");}
 
-#julio        {background-image: url("img/julio_little.png");}
-#julio.current{	background-image: url("img/julio.png");}
+#julio        {background-image: url("../img/julio_little.png");}
+#julio.current{	background-image: url("../img/julio.png");}
 
-#agosto        {background-image: url("img/agosto_little.png");}
-#agosto.current{	background-image: url("img/agosto.png");}
+#agosto        {background-image: url("../img/agosto_little.png");}
+#agosto.current{	background-image: url("../img/agosto.png");}
 
-#septiembre        {background-image: url("img/septiembre_little.png");}
-#septiembre.current{	background-image: url("img/septiembre.png");}
+#septiembre        {background-image: url("../img/septiembre_little.png");}
+#septiembre.current{	background-image: url("../img/septiembre.png");}
 
-#octubre        {background-image: url("img/octubre_little.png");}
-#octubre.current{	background-image: url("img/octubre.png");}
+#octubre        {background-image: url("../img/octubre_little.png");}
+#octubre.current{	background-image: url("../img/octubre.png");}
 
-#noviembre      {background-image: url("img/noviembre_little.png");}
-#noviembre.current{	background-image: url("img/noviembre.png");}
+#noviembre      {background-image: url("../img/noviembre_little.png");}
+#noviembre.current{	background-image: url("../img/noviembre.png");}
 
-#diciembre        {background-image: url("img/diciembre_little.png");}
-#diciembre.current{	background-image: url("img/diciembre.png");}
+#diciembre        {background-image: url("../img/diciembre_little.png");}
+#diciembre.current{	background-image: url("../img/diciembre.png");}
 
 
 li
@@ -212,19 +212,19 @@ ul
 #vimeo ,#vimeo a{
 width: 199px;
 height: 68px;
-background-image: url("img/vimeo.gif");
+background-image: url("../img/vimeo.gif");
 }
 
 #github ,#github a{
 width: 172px;
 height: 200px;
-background-image: url("img/GitHub.jpg");
+background-image: url("../img/GitHub.jpg");
 }
 
 #twitter , #twitter a{
 width: 117px;
 height: 119px;
-background-image: url("img/twitter.png");
+background-image: url("../img/twitter.png");
 }
 
 
